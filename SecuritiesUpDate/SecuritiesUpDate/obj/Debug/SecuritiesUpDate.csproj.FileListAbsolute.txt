@@ -1,0 +1,16 @@
+D:\Surajit\Research\SecuritiesUpDate\SecuritiesUpDate\obj\Debug\SecuritiesUpDate.frmMain.resources
+D:\Surajit\Research\SecuritiesUpDate\SecuritiesUpDate\obj\Debug\SecuritiesUpDate.Properties.Resources.resources
+D:\Surajit\Research\SecuritiesUpDate\SecuritiesUpDate\obj\Debug\SecuritiesUpDate.csproj.GenerateResource.cache
+D:\Surajit\Research\SecuritiesUpDate\SecuritiesUpDate\obj\Debug\SecuritiesUpDate.csproj.CoreCompileInputs.cache
+D:\Surajit\Research\SecuritiesUpDate\SecuritiesUpDate\bin\Debug\SecuritiesUpDate.exe.config
+D:\Surajit\Research\SecuritiesUpDate\SecuritiesUpDate\bin\Debug\SecuritiesUpDate.exe
+D:\Surajit\Research\SecuritiesUpDate\SecuritiesUpDate\bin\Debug\SecuritiesUpDate.pdb
+D:\Surajit\Research\SecuritiesUpDate\SecuritiesUpDate\obj\Debug\SecuritiesUpDate.exe
+D:\Surajit\Research\SecuritiesUpDate\SecuritiesUpDate\obj\Debug\SecuritiesUpDate.pdb
+D:\Surajit\Research\SecuritiesUpDate\SecuritiesUpDate\bin\Debug\System.IO.Compression.dll
+D:\Surajit\Research\SecuritiesUpDate\SecuritiesUpDate\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Surajit\Research\SecuritiesUpDate\SecuritiesUpDate\obj\Debug\SecuritiesUpDate.csproj.CopyComplete
+D:\Surajit\Research\SecuritiesUpDate\SecuritiesUpDate\bin\Debug\Newtonsoft.Json.dll
+D:\Surajit\Research\SecuritiesUpDate\SecuritiesUpDate\bin\Debug\Newtonsoft.Json.xml
+D:\Surajit\Research\SecuritiesUpDate\SecuritiesUpDate\obj\Debug\SecuritiesUpDate.csprojAssemblyReference.cache
+D:\Surajit\Research\SecuritiesUpDate\SecuritiesUpDate\bin\Debug\App.config

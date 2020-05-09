@@ -1,0 +1,6 @@
+D:\Surajit\Research\StockAnalyzer\Core.Entity\bin\Release\Core.Entity.dll
+D:\Surajit\Research\StockAnalyzer\Core.Entity\bin\Release\Core.Entity.pdb
+D:\Surajit\Research\StockAnalyzer\Core.Entity\obj\Release\Core.Entity.csproj.CoreCompileInputs.cache
+D:\Surajit\Research\StockAnalyzer\Core.Entity\obj\Release\Core.Entity.dll
+D:\Surajit\Research\StockAnalyzer\Core.Entity\obj\Release\Core.Entity.pdb
+D:\Surajit\Research\StockAnalyzer\Core.Entity\obj\Release\Core.Entity.csprojAssemblyReference.cache

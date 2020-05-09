@@ -1,0 +1,9 @@
+D:\Surajit\Research\StockAnalyzer\Data.Dal\bin\Release\Data.Dal.dll
+D:\Surajit\Research\StockAnalyzer\Data.Dal\bin\Release\Data.Dal.pdb
+D:\Surajit\Research\StockAnalyzer\Data.Dal\bin\Release\Core.Entity.dll
+D:\Surajit\Research\StockAnalyzer\Data.Dal\bin\Release\Core.Entity.pdb
+D:\Surajit\Research\StockAnalyzer\Data.Dal\obj\Release\Data.Dal.csprojAssemblyReference.cache
+D:\Surajit\Research\StockAnalyzer\Data.Dal\obj\Release\Data.Dal.csproj.CoreCompileInputs.cache
+D:\Surajit\Research\StockAnalyzer\Data.Dal\obj\Release\Data.Dal.csproj.CopyComplete
+D:\Surajit\Research\StockAnalyzer\Data.Dal\obj\Release\Data.Dal.dll
+D:\Surajit\Research\StockAnalyzer\Data.Dal\obj\Release\Data.Dal.pdb

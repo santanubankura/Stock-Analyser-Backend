@@ -1,0 +1,5 @@
+D:\Surajit\Research\StockAnalyzer\Core.Entity\bin\Debug\Core.Entity.dll
+D:\Surajit\Research\StockAnalyzer\Core.Entity\bin\Debug\Core.Entity.pdb
+D:\Surajit\Research\StockAnalyzer\Core.Entity\obj\Debug\Core.Entity.csproj.CoreCompileInputs.cache
+D:\Surajit\Research\StockAnalyzer\Core.Entity\obj\Debug\Core.Entity.dll
+D:\Surajit\Research\StockAnalyzer\Core.Entity\obj\Debug\Core.Entity.pdb
